@@ -1,5 +1,5 @@
 # hexago-api-go
-Welcome to the documentation for **My Go API**. This API is built using the Go programming language and provides various endpoints for interacting with the application.
+Welcome to the documentation for **hexago-api-go**. This API is built using the Go programming language and provides various endpoints for interacting with the application.
 
 ## Getting Started
 
